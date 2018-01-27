@@ -25,7 +25,7 @@ SECRET_KEY = 'p1^*9r2ute3id$yc=$nydn*@-=$qv35=f2+vc3jrv!k(x2if4w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'pifagorrz.pythonanywhere.com']
 
 
 # Application definition
